@@ -2,7 +2,7 @@
 
 define('DB_NAME', 'webserver');
 define('DB_USER', 'root');
-define('DB_PASSWORD', 'Bv10221964');
+define('DB_PASSWORD', '*********');
 define('DB_HOST', '127.0.0.1');
 
 $link = mysql_connect(DB_HOST, DB_USER, DB_PASSWORD);
